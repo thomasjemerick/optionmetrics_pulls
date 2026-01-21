@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data_raw/
+data_parquet/
+logs/
+universe_secid.txt
+.DS_Store
